@@ -1,6 +1,6 @@
 # Hola, soy Jesús Mosquera 👋
 
-Desarrollador de software en Barranquilla, Colombia 🇨🇴  
+Desarrollador de software en Barranquilla, Colombia  
 Construyo sistemas web con **Laravel**: POS multitenant, módulos de contabilidad y licenciamiento. También hago sitios en **WordPress** y automatizaciones con **n8n**.
 
 - 💼 Desarrollador en **Roshpi SAS** desde 2023
@@ -28,10 +28,6 @@ Construyo sistemas web con **Laravel**: POS multitenant, módulos de contabilida
 | [inventario-aspnet](https://github.com/jesusd2003/inventario-aspnet) | Sistema de inventario web con base de datos y migraciones · [demo](https://v0-inventario-aspnet.vercel.app) | ASP.NET Core MVC · EF Core |
 | [TechFix_CLI_Taller](https://github.com/jesusd2003/TechFix_CLI_Taller) | Herramienta de consola para gestionar un taller técnico | Python |
 | [APP-FLUTTER](https://github.com/jesusd2003/APP-FLUTTER) | App móvil multiplataforma | Flutter · Dart |
-
-## 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=jesusd2003&show_icons=true&count_private=true&theme=transparent)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusd2003&layout=compact&theme=transparent)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-mosquera-461232213/)
