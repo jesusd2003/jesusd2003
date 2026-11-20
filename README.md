@@ -22,11 +22,12 @@ Construyo sistemas web con **Laravel**: POS multitenant, módulos de contabilida
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
 | Proyecto | Descripción | Tech |
 |---|---|---|
 | [TechFix_CLI_Taller](https://github.com/jesusd2003/TechFix_CLI_Taller) | Herramienta de consola para gestionar un taller técnico | Python |
-| [APP-FLUTTER](https://github.com/jesusd2003/APP-FLUTTER) | App móvil multiplataforma | Flutter · Dart |
+
+*Más proyectos en camino 🚧*
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-mosquera-461232213/)
