@@ -25,7 +25,6 @@ Construyo sistemas web con **Laravel**: POS multitenant, módulos de contabilida
 ## 🚀 Proyectos destacados
 | Proyecto | Descripción | Tech |
 |---|---|---|
-| [inventario-aspnet](https://github.com/jesusd2003/inventario-aspnet) | Sistema de inventario web con base de datos y migraciones · [demo](https://v0-inventario-aspnet.vercel.app) | ASP.NET Core MVC · EF Core |
 | [TechFix_CLI_Taller](https://github.com/jesusd2003/TechFix_CLI_Taller) | Herramienta de consola para gestionar un taller técnico | Python |
 | [APP-FLUTTER](https://github.com/jesusd2003/APP-FLUTTER) | App móvil multiplataforma | Flutter · Dart |
 
